@@ -99,7 +99,6 @@ class VkUser:
                 test = 1                 
         except:
             print(f'Выход из программы')
-            return
-            
+            return            
         return                              
      
